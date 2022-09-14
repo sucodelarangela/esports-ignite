@@ -14,7 +14,7 @@ Este projeto está sendo desenvolvido durante o evento **#NLWtogether** promovid
 | 🪧 Vitrine.Dev   |     |
 | --------------- | --- |
 | ✨ Nome         | **NLW eSports** - Rocketseat |
-| 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Vite, Expo |
+| 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo |
 | 🚀 URL          | Ainda não disponível |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
