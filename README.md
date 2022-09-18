@@ -14,7 +14,7 @@ Este projeto está sendo desenvolvido durante o evento **#NLWtogether** promovid
 | 🪧 Vitrine.Dev   |     |
 | --------------- | --- |
 | ✨ Nome         | **NLW eSports** - Rocketseat |
-| 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo |
+| 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo, Axios |
 | 🚀 URL          | Ainda não disponível |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
@@ -27,6 +27,16 @@ Este projeto está sendo desenvolvido durante o evento **#NLWtogether** promovid
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=BCC3CD"/>
 </div>
+
+## Implementações futuras
+
+O projeto foi totalmente desenvolvido conforme as orientações dos instrutores, sem adicionais. Futuramente, podem ser implementadas as seguintes sugestões:
+
+-   Responsividade mobile na aplicação web;
+-   Criação de um carrossel, caso tenhamos mais jogos cadastrados no back-end (sugestão de lib: [Keen Slider](https://keen-slider.io/));
+-   substituir o `select` padrão do HTML pelo [select do Radix-UI](https://www.radix-ui.com/docs/primitives/components/select);
+-   Validação do formulário com [React Hook Form](https://react-hook-form.com/)
+-   Validação com o Discord, que preencheria automaticamente o campo do Discord no formulário.
 
 ---
 

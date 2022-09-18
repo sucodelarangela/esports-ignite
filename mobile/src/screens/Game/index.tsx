@@ -13,9 +13,12 @@ import logoImg from '../../assets/logo-nlw-esports.png'
 
 import { Heading } from '../../components/Heading'
 import { DuoCard, DuoCardProps } from '../../components/DuoCard'
+import { DuoMatch } from '../../components/DuoMatch'
 
 export function Game() {
     const [duos, setDuos] = useState([])
+    const [discordDuoSelected, setDiscordDuoSelected] = useState('suco')
+
     const route = useRoute()
     const game = route.params as GameParams
     const navigation = useNavigation()
@@ -64,6 +67,11 @@ export function Game() {
                             Não há anúncios publicados ainda.
                         </Text>
                     )}
+                />
+                <DuoMatch
+                    visible={discordDuoSelected.length > 0}
+                    discord='sucodelarangela#0919'
+                    onClose={() => setDiscordDuoSelected('')}
                 />
             </SafeAreaView>
         </Background>
