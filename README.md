@@ -1,6 +1,6 @@
 <div id='top'>
 
-# NLW eSports - Trilha Ignite | Rocketseat (em andamento)
+# NLW eSports - Trilha Ignite | Rocketseat
 
 </div>
 
