@@ -17,8 +17,8 @@ Este projeto foi durante o evento **#NLWtogether** promovido pela [Rocketseat](h
 | --------------- | --- |
 | ✨ Nome         | **NLW eSports** - Rocketseat |
 | 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo, Axios |
-| 🚀 URL          | Ainda não disponível |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
+<!--| 🚀 URL          | Ainda não disponível |-->
 
 ![](https://raw.githubusercontent.com/sucodelarangela/nlw-esports-ignite/main/web/public/og-image.jpg#vitrinedev)
 
